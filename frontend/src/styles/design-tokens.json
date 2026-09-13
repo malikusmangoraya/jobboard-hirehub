@@ -1,0 +1,54 @@
+{
+  "style": "flat_design",
+  "name": "Flat Design",
+  "dna": "Solid colors, 2D icons, minimal shadow/gradient, fast loading.",
+  "project_name": "realestate-realestate-001",
+  "palette": {
+    "primary": "#2563eb",
+    "secondary": "#16a34a",
+    "accent": "#f59e0b",
+    "bg": "#f9fafb",
+    "card": "#ffffff",
+    "surface": "#eff6ff",
+    "text": "#111827",
+    "muted": "#6b7280",
+    "border": "#e5e7eb"
+  },
+  "palette_hsl": {
+    "primary": "221 83.2% 53.3%",
+    "secondary": "142 76.2% 36.3%",
+    "accent": "38 92.1% 50.2%",
+    "bg": "210 20.0% 98.0%",
+    "card": "0 0.0% 100.0%",
+    "surface": "214 100.0% 96.9%",
+    "text": "221 39.3% 11.0%",
+    "muted": "220 8.9% 46.1%",
+    "border": "220 13.0% 91.0%"
+  },
+  "typography": {
+    "display": "Inter",
+    "sans": "Inter",
+    "mono": "JetBrains Mono",
+    "scale": [12, 14, 16, 18, 24, 30, 36, 48, 64]
+  },
+  "radius": {
+    "card": "12px",
+    "button": "8px"
+  },
+  "shadow": {
+    "card": "0 1px 2px rgba(0,0,0,0.04)",
+    "button": "0 0 0 0"
+  },
+  "border": {
+    "card": "1px solid #e5e7eb",
+    "button": "0"
+  },
+  "effects": {
+    "blur": "0px",
+    "glow": "none"
+  },
+  "weight": "medium",
+  "composition": "flat",
+  "generated_by": "lumicorepro-design-engine",
+  "timestamp": "2026-09-13T09:00:16Z"
+}

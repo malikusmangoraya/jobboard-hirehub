@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Realestate Realestate 001",
+  "url": "https://www.realestate-realestate-001.com",
+  "description": "Pricing, onboarding, and analytics built in — launch in days.",
+  "foundingDate": "2026",
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer service",
+    "availableLanguage": ["English", "Urdu"]
+  },
+  "sameAs": [
+    "https://www.facebook.com/realestate-realestate-001",
+    "https://www.instagram.com/realestate-realestate-001",
+    "https://twitter.com/realestate-realestate-001"
+  ]
+}
